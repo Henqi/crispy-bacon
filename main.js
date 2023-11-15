@@ -1,5 +1,4 @@
 import * as Bacon from 'baconjs'
-// import { EventStream, once } from "baconjs"
 
 // Create a Bacon.js stream
 const myStream = Bacon.fromArray([1, 2, 3, 4, 5]);
